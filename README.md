@@ -4,19 +4,27 @@
 
 # Clone the repository
 
-    git clone git@github.com:kunalwagh101/parking.git
+    git clone git@github.com:kunalwagh101/Parking_space.git
+
 
 
 # Create a virtual environment
 
 **For Linux and macOS**
    
-    cd in parking folder 
+   ```
+    cd .\Parking_space\  
+
+    ```
 
     python3.8 -m venv venv
     source venv/bin/activate
 
 **For Windows**
+   ```
+    cd .\Parking_space\  
+
+    ```
 
     pip install virtualenv
     python -m venv venv
